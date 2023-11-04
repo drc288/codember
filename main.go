@@ -22,4 +22,8 @@ func main() {
 	if argv[0] == "1" {
 		src.Challenge1()
 	}
+
+	if argv[0] == "2" {
+		src.Challenge2()
+	}
 }
